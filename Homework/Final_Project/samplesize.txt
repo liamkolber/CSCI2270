@@ -1,0 +1,15 @@
+yearID,teamID,leagueID,playerID,salary,firstName,lastName,birthYear,birthCountry,weight,height,bats,throws
+1988,ATL,NL,ackerji01,435000,Jim,Acker,1958,USA,210,74,R,R
+1988,ATL,NL,assenpa01,81000,Paul,Assenmacher,1960,USA,195,75,L,L
+1988,ATL,NL,barkele01,900000,Len,Barker,1955,USA,225,77,R,R
+1988,ATL,NL,benedbr01,665000,Bruce,Benedict,1955,USA,175,73,R,R
+1988,ATL,NL,blausje01,67000,Jeff,Blauser,1965,USA,170,72,R,R
+1988,ATL,NL,blockte01,70000,Terry,Blocker,1959,USA,195,74,L,L
+1988,ATL,NL,carych01,78000,Chuck,Cary,1960,USA,210,76,L,L
+1989,ATL,NL,ackerji01,688000,Jim,Acker,1958,USA,210,74,R,R
+1989,ATL,NL,alvarjo01,125000,Jose,Alvarez,1956,USA,170,70,R,R
+1989,ATL,NL,assenpa01,271000,Paul,Assenmacher,1960,USA,195,75,L,L
+1989,ATL,NL,benedbr01,395000,Bruce,Benedict,1955,USA,175,73,R,R
+1989,ATL,NL,berroge01,70500,Geronimo,Berroa,1965,D.R.,165,72,R,R
+1989,ATL,NL,blausje01,82000,Jeff,Blauser,1965,USA,170,72,R,R
+1989,ATL,NL,boevejo01,167000,Joe,Boever,1960,USA,200,73,R,R
